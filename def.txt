@@ -1,0 +1,7 @@
+
+A Series is a one-dimensional array-like object containing an array of data (of any
+NumPy data type) and an associated array of data labels, called its index.
+A DataFrame represents a tabular, spreadsheet-like data structure containing an ordered
+collection of columns, each of which can be a different value type (numeric,
+string, boolean, etc.). The DataFrame has both a row and column index; it can be
+thought of as a dict of Series (one for all sharing the same index).
